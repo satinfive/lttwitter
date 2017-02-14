@@ -1,0 +1,2 @@
+Descarga python : https://www.python.org/downloads/
+Descarga de pip : https://bootstrap.pypa.io/get-pip.py

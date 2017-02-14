@@ -1,0 +1,1 @@
+C:\Python27\python C:\Users\satos\PycharmProjects\LTPruebaTwitter\datos\consultas.py
